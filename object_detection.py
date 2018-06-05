@@ -106,8 +106,7 @@ cv2.destroyAllWindows()
 #     frame = detect(frame, net.eval(), transform)
 #     writer.append_data(frame)
 #     print(i)
-writer.close()aa
-    
+writer.close()
     
     
     
